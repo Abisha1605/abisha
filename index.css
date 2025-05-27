@@ -1,0 +1,61 @@
+
+h1{
+    font-size:20px;
+    color:red;
+}
+p {
+    font-size:20px;
+    color:brown
+}
+.container{
+    background-color: aqua;
+
+}
+.abisha{
+    background-color: aqua;
+    color: blue;
+display: flex;
+
+}
+.deepak{
+    background-color: blanchedalmond;
+    color: blueviolet;
+    color: blue;
+    
+}
+.abisha p{
+    color: blue;
+}
+#collage{ background-color: aliceblue;
+color: blue;
+}
+#collage h1{
+    color: blue;
+}
+img{
+    height: 100px;
+    width:200px;
+    margin: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 10px;
+
+}
+img{
+    height: 100px;
+    width: 200px;
+    display: flex;
+    
+}
+ 
+.abishaneupane{
+    color: azure;
+    background-color:rgba(128, 126, 0, 0.895) ;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 4px;
+    
+
+}
+/*  css selectors class id */
